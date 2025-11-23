@@ -1,0 +1,11 @@
+# rag-engine/requirements.txt (Local LLM via Ollama + HF embeddings)
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+faiss-cpu
+python-dotenv
+
+# Optional: if ChatOllama import fails from community package, uncomment/install below
+# langchain-ollama

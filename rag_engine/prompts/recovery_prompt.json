@@ -1,0 +1,10 @@
+{
+  "resting_hr": 58,
+  "user_fatigue_rating": 7,
+  "sleep_hours": 5.5,
+  "today_plan": {
+    "session": "Lower Body B",
+    "exercises": ["RDL", "Walking Lunges", "Glute Bridges"]
+  },
+  "question": "Should I modify today's training due to poor sleep?"
+}
