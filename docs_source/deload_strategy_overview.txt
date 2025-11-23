@@ -1,0 +1,74 @@
+# Deload Strategy Overview
+
+Deloading is a temporary reduction in training volume, intensity, or both, designed to manage fatigue, maintain adaptations, and enhance long-term performance. It is a key feature of intelligent periodization.
+
+---
+
+## Why Deload?
+
+- Accumulated fatigue can impair recovery and performance
+- Prevents overtraining syndrome
+- Allows supercompensation to occur
+- Resensitizes the body to training stimulus
+
+---
+
+## When to Deload
+
+- Every 4–6 weeks is a common heuristic
+- After reaching MRV (Maximum Recoverable Volume)
+- When experiencing:
+  - Decreased performance despite rest
+  - Chronic soreness or lack of motivation
+  - Elevated resting heart rate or poor HRV
+  - Disturbed sleep or persistent fatigue
+
+---
+
+## How to Deload
+
+**Option 1: Volume Reduction**
+- Drop set volume by 50–70%
+- Keep intensity (weight) the same
+- Maintain movement patterns
+
+**Option 2: Intensity Reduction**
+- Drop load to ~60–70% of 1RM
+- Reduce RPE targets
+- Maintain volume
+
+**Option 3: Both**
+- Lower both load and total sets
+- Focus on movement quality and recovery
+
+---
+
+## Active vs. Passive Deloads
+
+- **Active Deload:** Light training sessions to maintain movement patterns and neuromuscular efficiency
+- **Passive Deload:** Full rest or complete avoidance of resistance training
+
+Most evidence supports active deloads unless burnout or injury is suspected.
+
+---
+
+## Typical Duration
+
+- 1 week is standard
+- In longer mesocycles (6+ weeks), a deload might span 10–14 days
+- Can also be autoregulated based on biofeedback
+
+---
+
+## Special Notes
+
+- Endurance athletes may deload by reducing mileage or intensity, not just strength work
+- For hypertrophy: better to reduce volume more than intensity
+- For strength: better to reduce intensity but preserve neuromuscular engagement
+
+---
+
+Sources:
+- Helms et al., *Muscle & Strength Pyramid*
+- Zourdos, M. et al., *DUP and fatigue management*
+- Lyle McDonald, *The Importance of Deloading*

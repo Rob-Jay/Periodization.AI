@@ -1,0 +1,98 @@
+# Training Volume Guidelines for Hypertrophy and Strength
+
+This guide outlines evidence-based set volume targets per muscle group, based on training experience. It is designed to inform mesocycle planning, progressive overload decisions, and evaluation of logged workouts.
+
+---
+
+## Key Definitions
+
+- MEV: Minimum Effective Volume — the lowest number of weekly sets per muscle group that produces gains.
+- MAV: Maximum Adaptive Volume — the volume range that produces optimal results for most people.
+- MRV: Maximum Recoverable Volume — the upper limit before recovery becomes compromised.
+
+---
+
+## Chest
+
+- Beginner:
+  - MEV: ~8 sets/week
+  - MAV: 12–16 sets/week
+  - MRV: ~20 sets/week
+- Intermediate/Advanced:
+  - MEV: ~10 sets/week
+  - MAV: 14–20 sets/week
+  - MRV: ~24 sets/week
+
+---
+
+## Quads
+
+- Beginner:
+  - MEV: ~6–8 sets/week
+  - MAV: 10–14 sets/week
+  - MRV: ~18 sets/week
+- Intermediate/Advanced:
+  - MEV: ~8–10 sets/week
+  - MAV: 14–20 sets/week
+  - MRV: ~24 sets/week
+
+---
+
+## Posterior Chain (Glutes + Hamstrings)
+
+- Beginner:
+  - MEV: ~6 sets/week
+  - MAV: 10–14 sets/week
+  - MRV: ~18 sets/week
+- Intermediate/Advanced:
+  - MEV: 8–10 sets/week
+  - MAV: 14–20 sets/week
+  - MRV: ~24 sets/week
+
+---
+
+## Back (Lats, Traps, Rhomboids)
+
+- Beginner:
+  - MEV: ~8 sets/week
+  - MAV: 12–16 sets/week
+  - MRV: ~20 sets/week
+- Intermediate/Advanced:
+  - MEV: ~10 sets/week
+  - MAV: 14–20 sets/week
+  - MRV: ~24 sets/week
+
+---
+
+## Shoulders
+
+- MEV: 6 sets/week
+- MAV: 10–14 sets/week
+- MRV: ~20 sets/week
+
+---
+
+## Arms
+
+- Biceps:
+  - MEV: 6 sets/week
+  - MAV: 10–14 sets/week
+  - MRV: ~20 sets/week
+
+- Triceps:
+  - MEV: 6 sets/week
+  - MAV: 10–14 sets/week
+  - MRV: ~20 sets/week
+
+---
+
+## Summary Recommendations
+
+- Volume should increase gradually week to week within a mesocycle.
+- Deload should follow once near MRV or if recovery markers decline.
+- Frequency: 2–3x per muscle group per week is optimal for most lifters.
+
+Sources:
+- Helms et al., *Muscle & Strength Pyramid*
+- Schoenfeld, B. (2010, 2016)
+- Nuckols, G., *Stronger by Science*

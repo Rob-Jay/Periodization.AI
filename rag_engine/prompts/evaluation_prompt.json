@@ -1,0 +1,12 @@
+{
+  "logged_volume": {
+    "chest": 80,
+    "posterior_chain": 130,
+    "quads": 65,
+    "glutes": 85
+  },
+  "target_goals": ["strength", "posterior chain hypertrophy"],
+  "missed_sessions": 2,
+  "user_feedback": "Felt recovered, some fatigue by week 4",
+  "question": "Was this volume distribution optimal?"
+}
